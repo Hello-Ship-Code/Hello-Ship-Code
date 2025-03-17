@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I don't fill my profile with a wall of badges or endless coding languages like a North Korean official. Instead, I focus on building cool projects while learning new tech. 😎
+I don't fill my profile with a wall of badges or endless coding languages. Instead, I focus on building cool projects while learning new tech. 😎
 
 ## 🚀 What I Do
 - Tinker with the **MERN Stack**, **TypeScript**, and **Tailwind CSS**
