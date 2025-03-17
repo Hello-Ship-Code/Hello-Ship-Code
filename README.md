@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hey there! 👋
 
-<!--
-**Hello-Ship-Code/Hello-Ship-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I don't fill my profile with a wall of badges or endless coding languages like a North Korean official. Instead, I focus on building cool projects while learning new tech. 😎
 
-Here are some ideas to get you started:
+## 🚀 What I Do
+- Tinker with the **MERN Stack**, **TypeScript**, and **Tailwind CSS**
+- Experiment with new ideas and build scalable web apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Check Out My Work
+Curious about what I've been building? **[Check here](https://github.com/Hello-Ship-Code)**
+
+## 🌍 Connect With Me
+- **LinkedIn:** [Your LinkedIn](#)
+- **Portfolio:** ON THE WAY
+
+Let's build something awesome together! 🚀
