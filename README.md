@@ -1,16 +1,19 @@
 # Hey there! 👋
 
-I don't fill my profile with a wall of badges or endless coding languages like a North Korean official. Instead, I focus on building cool projects while learning new tech. 😎
+I don't clutter my profile with a buffet of badges or a coding language checklist. Instead, I roll up my sleeves and build awesome stuff while breaking things along the way. 💥😎
 
 ## 🚀 What I Do
-- Tinker with the **MERN Stack**, **TypeScript**, and **Tailwind CSS**
-- Experiment with new ideas and build scalable web apps
+- Tinker with the **MERN Stack** (and yes, I still forget MongoDB queries sometimes)
+- Wrestling with **TypeScript** like it's my arch-nemesis 🥋
+- Styling my way through chaos with **Tailwind CSS** 🎨
+- Currently attempting to speak **Go** fluently... still sounds like gibberish 🐹
+- Dreaming up wild ideas and turning them into scalable web apps (sometimes they actually work!)
 
 ## 📫 Check Out My Work
-Curious about what I've been building? **[Check here](https://github.com/Hello-Ship-Code)**
+Curious about what I've been building (and occasionally breaking)? **[Check here](https://github.com/Hello-Ship-Code)**
 
 ## 🌍 Connect With Me
-- **LinkedIn:** [Your LinkedIn](#)
-- **Portfolio:** ON THE WAY
+- **LinkedIn:** [Your LinkedIn](#) (where I pretend to be professional)
+- **Portfolio:** 🚧 *ON THE WAY... probably in a distant galaxy* 🚧
 
-Let's build something awesome together! 🚀
+Let's code, break things, fix them, and repeat! 🔄🔥
