@@ -13,7 +13,7 @@ I don't clutter my profile with a buffet of badges or a coding language checklis
 Curious about what I've been building (and occasionally breaking)? **[Check here](https://github.com/Hello-Ship-Code)**
 
 ## 🌍 Connect With Me
-- **LinkedIn:** [LinkedIn](#) (where I pretend to be professional)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/abhinav-peter/) (where I pretend to be professional)
 - **Portfolio:** 🚧 *ON THE WAY... probably in a distant galaxy* 🚧
 
 Let's code, break things, fix them, and repeat! 🔄🔥
