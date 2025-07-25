@@ -14,6 +14,7 @@ Curious about what I've been building (and occasionally breaking)? **[Check here
 
 ## 🌍 Connect With Me
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/abhinav-peter/) (where I pretend to be professional)
-- **Portfolio:** 🚧 *ON THE WAY... probably in a distant galaxy* 🚧
+- **Portfolio:** 🚀 [hello-ship-code.vercel.app](http://hello-ship-code.vercel.app/) *(no longer in a distant galaxy 🚧)*
+
 
 Let's code, break things, fix them, and repeat! 🔄🔥
